@@ -1,0 +1,13 @@
+{
+  "name": "my-first-mcp",
+  "version": "1.0.0",
+  "description": "A simple MCP server with a weather tool for Claude Code",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}

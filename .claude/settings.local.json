@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__weather-server__get_weather",
+      "Bash(timeout:*)",
+      "Bash(curl:*)"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "my-first-mcp"
+  ]
+}
