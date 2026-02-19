@@ -14,5 +14,10 @@ The inputs from the user that the mcp server takes in are **Location** and **Ran
 
 1. **npm install** (installs dependencies)
 2. Open claude using **claude** in terminal
-3. Input **/mcp** in the terminal and press **enter** to restart
+3. Input **/mcp** in the terminal to check if server is connected
 4. Input your response
+
+## If it doesn't connect?
+1. Check the **.mcp.json** file path
+2. Use **pwd** to get the file path
+3. Replace the file path in **args**
