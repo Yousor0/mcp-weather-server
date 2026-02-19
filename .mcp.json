@@ -2,7 +2,7 @@
   "mcpServers": {
     "my-first-mcp": {
       "command": "node",
-      "args": ["C:/Users/Andrew Jiang/Desktop/dig4503/mcp-projects/my-first-mcp/index.js"]
+      "args": ["index.js"]
     }
   }
 }
